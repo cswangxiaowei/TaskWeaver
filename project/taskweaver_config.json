@@ -1,5 +1,11 @@
+// {
+// "llm.api_base": "https://api.openai.com/v1/",
+// "llm.api_key": "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",
+// "llm.model": "gpt-4-1106-preview"
+// }
+
 {
-"llm.api_base": "https://api.openai.com/v1",
-"llm.api_key": "",
-"llm.model": "gpt-4-1106-preview"
+    "llm.api_type": "qwen",
+    "llm.api_key": "sk-b4688c0e881342a487bb47c064182fb1"
+    "llm.model": "baichuan2-7b-chat-v1"
 }
